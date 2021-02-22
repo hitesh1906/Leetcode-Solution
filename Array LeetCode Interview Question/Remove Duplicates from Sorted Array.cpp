@@ -1,6 +1,6 @@
 /* Click or copy the link below to view question */
 /* Do login into leetcode before opening the link below */
-//https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
+/*  https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/  */
 
 
 class Solution {
